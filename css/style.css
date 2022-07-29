@@ -178,6 +178,7 @@ div#story-page article{
 div#story-page article #content-story-image-article{
     display:flex;
     flex-direction: column;
+    justify-content: space-around;
 }
 
 div#story-page article #content-story-image-article img{
